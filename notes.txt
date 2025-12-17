@@ -1,0 +1,21 @@
+
+For Commenting=> ctrl /
+
+
+====Bootstrap Colors===
+
+1. success (Green Type)
+2. warning (Orange Type)
+3. dark (Black Type)
+4. light (White type)
+5. danger (Red Type)
+6. info (Blue Type)
+7. primary (Blue Type)
+8. secondary (Ash Type)
+
+
+====Bootstrap Grid System===
+
+1. Total 12 Columns => Full Width
+
+Device: col sm md lg xl
